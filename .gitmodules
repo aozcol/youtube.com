@@ -1,0 +1,4 @@
+[submodule "auth-sso"]
+	path = auth-sso
+	url = git@github.com:aozcol/auth-sso.git
+	branch = main
